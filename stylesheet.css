@@ -360,7 +360,10 @@ nav .fas{
         font-size: 16px;
     }
     .header-text h1{
+        margin-top: 40px;
         font-size: 30px;
+        -webkit-text-stroke-width: 0.5px;
+        -webkit-text-stroke-color: black;
     }
     nav .fas{
         display: block;
