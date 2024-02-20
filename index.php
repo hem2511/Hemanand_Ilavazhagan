@@ -130,8 +130,8 @@
                 <div class="work">
                     <img src="images/work-2.png">
                     <div class="layer">
-                        <h3>Music App</h3>
-                        <p>The app connect you to the talented people around the world. Download it from play store.</p>
+                        <h3>Tic-Tac-Toe Game</h3>
+                        <p>A simple yet engaging Tic-Tac-Toe game implemented in React.js. </p>
                         <a href="#portfolio"><i class="fa-solid fa-up-right-from-square"></i></a>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-            <a href="#portfolio" class="btn" aria-disabled="true">see more</a>
+            <a href="https://github.com/hem2511" class="btn" aria-disabled="true">see more</a>
         </div>
     </div>
     <!-----------------------contact------------------------->
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="row">
                 <div class="contact-left">
-                    <h1 class="sub-title">Contact Me</h1>
+                    <h1 class="sub-title">Contact <span>Me<span></h1>
                     <p><i class="fa-sharp fa-solid fa-paper-plane"></i>hemanand002@gmail.com</p>
                     <p><i class="fa-solid fa-square-phone"></i>+91 7358310225</p>
                     <div class="social-icons">
