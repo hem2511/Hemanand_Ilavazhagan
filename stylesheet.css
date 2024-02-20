@@ -122,13 +122,23 @@ nav ul li a:hover:after{
 .tab-links.active-link::after{
     width: 50%;
 }
-.tab-contents ul li{
-    list-style: none;
-    margin: 10px 0;
-}
-.tab-contents ul li span{
+.tab-contents .head{
     color: #b55469;
-    font-size: 14px;
+    font-size: 22px;
+}
+.tab-contents ul li{
+    margin: 10px 40px;
+
+}
+.tab-contents .edu li span{
+    color: #ababab;
+    font-size: 16px;
+    
+
+}
+.tab-contents .edu li{
+    color: #b55469;
+    font-size: 20px;
 }
 .tab-contents{
     display: none;
@@ -168,12 +178,10 @@ nav ul li a:hover:after{
     font-weight: 500;
     margin-bottom: 15px;
 }
-.services-list div a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 12px;
-    margin-top: 20px;
-    display: inline-block;
+.services-list div p{
+    font-size: 13px;
+    line-height: 1.5em;
+    letter-spacing: 0.05em;
 }
 .services-list div:hover{
     background: #ff004f;

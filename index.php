@@ -44,27 +44,39 @@
                 </div>
                 <div class="about-col-2">
                     <h1 class="sub-title">About Me</h1>
-                    <p>Hi, I'm Hemanand. I’m a Front-End Developer located in Chennai. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. Well-organised person, problem solver, independent employee with high attention to detail,macro photogrphy , TV series.Interested in the entire frontend spectrum and working on ambitious projects with positive people. </p>
+                    <p>Hi there! I'm a versatile web developer fueled by a passion for creating engaging digital experiences. With a strong focus on React, I thrive on transforming ideas into user-friendly interfaces that make a lasting impact. I'm dedicated to continuous learning, staying ahead of industry trends, and collaborating with teams to deliver innovative solutions. Beyond coding, I enjoy exploring design trends, staying active in the developer community, and finding inspiration in the world around me. </p>
                     <div class="tab-titles">
                         <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
                         <p class="tab-links" onclick="opentab('education')">Education</p>
                     </div>
                     <div class="tab-contents active-tab" id="skills">
+                        <div class="head">Language</div>
                         <ul>
-                            
-                            <li><span>Web Development</span></li>
                             <li><span>Java</span></li>
-                            <li><span>UI/UX</span></li>
-                            <li><span>React js</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>JavaScript</span></li>
                             <li><span>PHP</span></li>
+                            <li><span>C</span></li>
 
-                            
+                        </ul>
+                        <div class="head">Front-End</div>
+                        <ul>
+                            <li><span>React Js</span></li>
+                            <li><span>BootStrap</span></li>
+                            <li><span>Tailwind</span></li>
+                        </ul>
+                        <div class="head ">Technologies</div>
+                        <ul>
+                            <li><span>Figma</span></li>
+                            <li><span>UiPath</span></li>
+                            <li><span>Google DevTools</span></li>
                         </ul>
                     </div>
                     <div class="tab-contents" id="education">
-                        <ul>
-                            <li><span>2019-2021</span><br>Diploma from Panimalar polytechnic</li>
-                            <li><span>2021-Current</span><br>B.E from Rajalakshmi Engineering Collage</li>
+                        <ul class="edu">
+                            <li>2021-Current<br><span>Bachelor's in Computer Science Engineering<br>Rajalakshmi Engineering Collage</span></li>
+                            <li>2019-2021<br><span>Diploma in Computer Science Engineering<br>Panimalar polytechnic college</span></li>
                         </ul>
                     </div>
                 </div>
@@ -82,21 +94,21 @@
             <div class="services-list">
                 <div>
                     <i class="fa-brands fa-html5"></i>
-                    <h2>web designer</h2>
-                    <p>What separates design from art is that design is meant to be... functional.</p>
-                    <a href="#services">Learn more</a>
+                    <h2>Web Developer</h2>
+                    <p>Elevating web experiences through React expertise, weaving together interactivity and performance to create seamless and engaging user interfaces that leave a lasting impression.</p>
+                    
+                </div>
+                <div>
+                    <i class="fa-brands fa-java"></i>
+                    <h2>Java Developer</h2>
+                    <p>Fostering innovation and reliability in Java development, crafting robust solutions that empower businesses to thrive in a dynamic digital landscape.</p>
+                    
                 </div>
                 <div>
                     <i class="fa-brands fa-figma"></i>
-                    <h2>UI/UX designer</h2>
-                    <p>UI is the saddle, the stirrups, & the reins. UX is the feeling you get being able to ride the horse.</p>
-                    <a href="#services">Learn more</a>
-                </div>
-                <div>
-                    <i class="fa-solid fa-code"></i>
-                    <h2>App designer</h2>
-                    <p>Design is not just how it works like or feels. Design is how it works</p>
-                    <a href="#services">Learn more</a>
+                    <h2>Web Designer</h2>
+                    <p>Designing captivating web experiences with Figma, where creativity meets functionality to bring visions to life in pixel-perfect detail.</p>
+                    
                 </div>
             </div>
         </div>
