@@ -356,11 +356,12 @@ nav .fas{
         background-image: url(images/background-1.png);
     }
     .header-text{
-        margin-top: 100%;
+        margin-top: 125%;
         font-size: 16px;
+        -webkit-text-stroke-width: 0.2px;
+        -webkit-text-stroke-color: black;
     }
     .header-text h1{
-        margin-top: 40px;
         font-size: 30px;
         -webkit-text-stroke-width: 0.5px;
         -webkit-text-stroke-color: black;
