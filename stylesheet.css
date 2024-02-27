@@ -315,6 +315,7 @@ nav ul li a:hover:after{
 
 .btn.btn2:hover{
     background-color: #080808;
+    transform: scale(1.01,1.01);
 }
 
 .contact-right form{
